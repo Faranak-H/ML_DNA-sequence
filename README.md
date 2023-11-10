@@ -22,7 +22,7 @@ The repository contains a Jupyter Notebook with detailed steps and code for data
 # Requirements
 Python
 Libraries: TensorFlow, Keras, Pandas, Scikit-Learn, Matplotlib, Seaborn
-Instructions
+# Instructions
 Clone the repository.
 Install required libraries.
 Run the Jupyter Notebook, following the instructions and completing the incomplete cells.
